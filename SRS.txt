@@ -1,0 +1,5 @@
+I am writing functional and non functional requirements of SRS
+Functional Requirement
+Login
+Portal
+Resources 
